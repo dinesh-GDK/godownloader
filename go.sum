@@ -6,7 +6,5 @@ github.com/sethgrid/curse v0.0.0-20181231162520-d4ee583ebf0f h1:5sRN2QRb4WELQTjD
 github.com/sethgrid/curse v0.0.0-20181231162520-d4ee583ebf0f/go.mod h1:AcGQtZEPLvE/ypI3mXUA5nzST17BmzYJJy/n5HXoFTA=
 github.com/tredoe/term v0.0.0-20161130133337-e551c64f56c0 h1:62GgUset6v9/OOwgp6G9G0T85xd1tSrxuJb6B32wfC0=
 github.com/tredoe/term v0.0.0-20161130133337-e551c64f56c0/go.mod h1:KgcOI1tnP8CSXsT+9RJU/CYuGBjeJAXbhyG8ufn21jQ=
-golang.org/x/sys v0.0.0-20220110181412-a018aaa089fe h1:W8vbETX/n8S6EmY0Pu4Ix7VvpsJUESTwl0oCK8MJOgk=
-golang.org/x/sys v0.0.0-20220110181412-a018aaa089fe/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20220209214540-3681064d5158 h1:rm+CHSpPEEW2IsXUib1ThaHIjuBVZjxNgSKmBLFfD4c=
 golang.org/x/sys v0.0.0-20220209214540-3681064d5158/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
