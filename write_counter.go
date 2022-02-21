@@ -1,4 +1,4 @@
-package main
+package godownloader
 
 import "github.com/dinesh-GDK/multibar"
 
